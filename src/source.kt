@@ -1,4 +1,9 @@
 fun main(args: Array<String>)
 {
-    print("Hello Kotlin")
+    println("Hello Kotlin")
+    var i=7
+    var j =20
+    println(i+j)
+
+
 }
